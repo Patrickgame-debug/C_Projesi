@@ -1,0 +1,70 @@
+{
+  "ogrenciler": [
+    {
+      "Id": 3,
+      "Ad": "ümit",
+      "Soyad": "güldalı",
+      "Bolum": "1",
+      "KayıtlıDersler": [
+        {
+          "Ad": "matematik",
+          "Kredi": 3,
+          "OgretimGorevlisi": {
+            "Id": 1,
+            "Ad": "tanju",
+            "Soyad": "sirmen",
+            "Departman": "bilgi"
+          }
+        },
+        {
+          "Ad": "matematik",
+          "Kredi": 3,
+          "OgretimGorevlisi": {
+            "Id": 1,
+            "Ad": "tanju",
+            "Soyad": "sirmen",
+            "Departman": "bilgi"
+          }
+        }
+      ]
+    },
+    {
+      "Id": 1,
+      "Ad": "tanju",
+      "Soyad": "gd",
+      "Bolum": "bilgisayar",
+      "KayıtlıDersler": [
+        {
+          "Ad": "matematik",
+          "Kredi": 3,
+          "OgretimGorevlisi": {
+            "Id": 1,
+            "Ad": "tanju",
+            "Soyad": "sirmen",
+            "Departman": "bilgi"
+          }
+        }
+      ]
+    }
+  ],
+  "ogretimGorevlileri": [
+    {
+      "Id": 1,
+      "Ad": "tanju",
+      "Soyad": "sirmen",
+      "Departman": "bilgi"
+    }
+  ],
+  "dersler": [
+    {
+      "Ad": "matematik",
+      "Kredi": 3,
+      "OgretimGorevlisi": {
+        "Id": 1,
+        "Ad": "tanju",
+        "Soyad": "sirmen",
+        "Departman": "bilgi"
+      }
+    }
+  ]
+}

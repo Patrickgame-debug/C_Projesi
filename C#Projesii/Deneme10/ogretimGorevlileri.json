@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "Ad": "Emrah",
+    "Soyad": "Sarıçicek",
+    "Departman": "Bilgisayar"
+  },
+  {
+    "Id": 2,
+    "Ad": "Tanju",
+    "Soyad": "Sirmen",
+    "Departman": "Bilgisayar"
+  },
+  {
+    "Id": 3,
+    "Ad": "Recep",
+    "Soyad": "Yıldırım",
+    "Departman": "Mimarlık"
+  },
+  {
+    "Id": 5,
+    "Ad": "Rasim",
+    "Soyad": "Ozan",
+    "Departman": "Ticaret"
+  }
+]

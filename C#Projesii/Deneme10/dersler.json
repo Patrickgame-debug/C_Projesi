@@ -1,0 +1,52 @@
+[
+  {
+    "Ad": "Görsel Programlama",
+    "Kredi": 3,
+    "OgretimGorevlisi": {
+      "Id": 1,
+      "Ad": "Emrah",
+      "Soyad": "Sarıçicek",
+      "Departman": "Bilgisayar"
+    }
+  },
+  {
+    "Ad": "Nesneye Dayalı Programlama",
+    "Kredi": 2,
+    "OgretimGorevlisi": {
+      "Id": 1,
+      "Ad": "Emrah",
+      "Soyad": "Sarıçicek",
+      "Departman": "Bilgisayar"
+    }
+  },
+  {
+    "Ad": "Cevre Tasarım",
+    "Kredi": 3,
+    "OgretimGorevlisi": {
+      "Id": 3,
+      "Ad": "Recep",
+      "Soyad": "Yıldırım",
+      "Departman": "Mimarlık"
+    }
+  },
+  {
+    "Ad": "Ticaret",
+    "Kredi": 4,
+    "OgretimGorevlisi": {
+      "Id": 5,
+      "Ad": "Rasim",
+      "Soyad": "Ozan",
+      "Departman": "Ticaret"
+    }
+  },
+  {
+    "Ad": "İşletim Sistemleri",
+    "Kredi": 3,
+    "OgretimGorevlisi": {
+      "Id": 2,
+      "Ad": "Tanju",
+      "Soyad": "Sirmen",
+      "Departman": "Bilgisayar"
+    }
+  }
+]

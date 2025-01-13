@@ -1,0 +1,112 @@
+[
+  {
+    "Id": 1,
+    "Ad": "ümit",
+    "Soyad": "güldalı",
+    "Bolum": "bilgisayar programcılığı",
+    "KayıtlıDersler": [
+      {
+        "Ad": "Görsel Programlama",
+        "Kredi": 3,
+        "OgretimGorevlisi": {
+          "Id": 1,
+          "Ad": "Emrah",
+          "Soyad": "Sarıçicek",
+          "Departman": "Bilgisayar"
+        }
+      },
+      {
+        "Ad": "Nesneye Dayalı Programlama",
+        "Kredi": 2,
+        "OgretimGorevlisi": {
+          "Id": 1,
+          "Ad": "Emrah",
+          "Soyad": "Sarıçicek",
+          "Departman": "Bilgisayar"
+        }
+      },
+      {
+        "Ad": "İşletim Sistemleri",
+        "Kredi": 3,
+        "OgretimGorevlisi": {
+          "Id": 2,
+          "Ad": "Tanju",
+          "Soyad": "Sirmen",
+          "Departman": "Bilgisayar"
+        }
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "Ad": "Teoman",
+    "Soyad": "Şahin",
+    "Bolum": "Mimar",
+    "KayıtlıDersler": [
+      {
+        "Ad": "Cevre Tasarım",
+        "Kredi": 3,
+        "OgretimGorevlisi": {
+          "Id": 3,
+          "Ad": "Recep",
+          "Soyad": "Yıldırım",
+          "Departman": "Mimarlık"
+        }
+      }
+    ]
+  },
+  {
+    "Id": 3,
+    "Ad": "Bahadır",
+    "Soyad": "Usal",
+    "Bolum": "Ticaret",
+    "KayıtlıDersler": [
+      {
+        "Ad": "Ticaret",
+        "Kredi": 4,
+        "OgretimGorevlisi": {
+          "Id": 5,
+          "Ad": "Rasim",
+          "Soyad": "Ozan",
+          "Departman": "Ticaret"
+        }
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "Ad": "Yunus",
+    "Soyad": "Kozlu",
+    "Bolum": "Bilgisayar",
+    "KayıtlıDersler": [
+      {
+        "Ad": "İşletim Sistemleri",
+        "Kredi": 3,
+        "OgretimGorevlisi": {
+          "Id": 2,
+          "Ad": "Tanju",
+          "Soyad": "Sirmen",
+          "Departman": "Bilgisayar"
+        }
+      }
+    ]
+  },
+  {
+    "Id": 12,
+    "Ad": "Yılmaz",
+    "Soyad": "Erdoğan",
+    "Bolum": "Bilgi İşlem",
+    "KayıtlıDersler": [
+      {
+        "Ad": "Nesneye Dayalı Programlama",
+        "Kredi": 2,
+        "OgretimGorevlisi": {
+          "Id": 1,
+          "Ad": "Emrah",
+          "Soyad": "Sarıçicek",
+          "Departman": "Bilgisayar"
+        }
+      }
+    ]
+  }
+]
