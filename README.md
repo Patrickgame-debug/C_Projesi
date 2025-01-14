@@ -1,4 +1,4 @@
-Öğrenci ve Ders Yönetim Sistemi Ümit Güldalı
+Öğrenci ve Ders Yönetim Sistemi  -  Ümit Güldalı Final Projesi
 
 Bu proje, öğrenciler, dersler ve öğretim görevlileri ile ilgili işlemleri kolaylıkla yönetmek için geliştirilmiş bir uygulamadır. Kullanıcı dostu arayüzü ve JSON tabanlı veri kaydetme altyapısı ile veriler güvenle saklanır ve işlenir.
 
